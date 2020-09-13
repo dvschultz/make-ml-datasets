@@ -4,7 +4,7 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 ## Week 1
 
 ### Lecture resources
-- [Lecture Slides]()
+- [Lecture Slides](https://docs.google.com/presentation/d/1BLwpqs3-VzN2ego-e_8oX8AoJnTPuz7PkqLIwtAv5ac/edit?usp=sharing)
 - Lecture Video
 
 ### Class Notes
