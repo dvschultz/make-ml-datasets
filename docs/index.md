@@ -8,6 +8,7 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 - Lecture Video
 
 ### Class Notes
+- [Dataset Playlist](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
 - Links to training videos for each model
   - Style Transfer: [Notebook](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb)
   - Pix2PixHD: [Notebook](https://github.com/dvschultz/ai/blob/master/Pix2PixHD.ipynb) | [Train on server](https://www.youtube.com/watch?v=TVCZLb1qe_0) | [Generate on Colab](https://www.youtube.com/watch?v=fXgodCC2O7o)
