@@ -5,7 +5,7 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 
 ### Lecture resources
 - [Lecture Slides](https://docs.google.com/presentation/d/1BLwpqs3-VzN2ego-e_8oX8AoJnTPuz7PkqLIwtAv5ac/edit?usp=sharing)
-- Lecture Video
+- [Lecture Video](https://youtu.be/tYVeEssDWFM)
 
 ### Class Notes
 - [Dataset Playlist](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
