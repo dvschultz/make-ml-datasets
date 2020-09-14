@@ -9,8 +9,8 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 
 ### Class Notes
 - Links to training videos for each model
-  - [Style Transfer](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb)
-  - Pix2PixHD: [Notebook]()
+  - Style Transfer: [Notebook](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb)
+  - Pix2PixHD: [Notebook](https://github.com/dvschultz/ai/blob/master/Pix2PixHD.ipynb) | [Train on server](https://www.youtube.com/watch?v=TVCZLb1qe_0) | [Generate on Colab](https://www.youtube.com/watch?v=fXgodCC2O7o)
   - Next Frame Prediction: [Notebook](https://github.com/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb) | [Train Demo](https://www.youtube.com/watch?v=Gry1J3JhTP0) | [Generation Demo](https://youtu.be/pqVkLaBnTKI)
   - MUNIT: [Notebook]()
   - CycleGAN: []()
