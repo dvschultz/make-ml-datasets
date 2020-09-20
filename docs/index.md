@@ -21,3 +21,8 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 - Start a dataset
   - Choose a topic or a model you’re interested in
   - Find sources for images (can be a dataset already, or something scrape-able, or multiple sources you want to combine)
+
+## Week 2
+
+### Lecture resources
+- [Lecture Slides](https://docs.google.com/presentation/d/1A4Her6cZrzG1laK6Baa3Q6vURE3Jm1o7ckdlGkTA8mA/edit?usp=sharing)
