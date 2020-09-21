@@ -26,3 +26,15 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 
 ### Lecture resources
 - [Lecture Slides](https://docs.google.com/presentation/d/1A4Her6cZrzG1laK6Baa3Q6vURE3Jm1o7ckdlGkTA8mA/edit?usp=sharing)
+- [Lecture Video](https://youtu.be/kcyoEjuUcXA)
+
+### Class Notes
+- [List of public datasets](https://docs.google.com/spreadsheets/d/1VijZSkQbqOvsvYBXdCx9UGu5zHGZPPpzwH2uHS-2XxQ/edit?usp=sharing)
+- [YouTubeDL](https://ytdl-org.github.io/youtube-dl/index.html) (Hoping to record a demo of this, but it might not happen this week)
+- Topaz Tools (If you want to but any of these after your trial is up, Derrick has [a referral code](http://topazlabs.refr.cc/dvsmethid) for 15% off)
+  - [Gigapixel AI](https://topazlabs.com/gigapixel-ai/)
+  - [Video Enhance AI](https://topazlabs.com/video-enhance-ai/)
+- [Biblioddyssey](http://bibliodyssey.blogspot.com/), an old (RIP) Blogspot blog with a vast treasure trove of vintage images and ephemera. Might be good for find museum sites to run a scraper on.
+- [Peter Baylies StyleGAN2 repo](https://github.com/pbaylies/stylegan2)
+- Possible solution to [getting images from PDFs](https://stackoverflow.com/questions/2693820/extract-images-from-pdf-without-resampling-in-python)?
+
