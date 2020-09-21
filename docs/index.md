@@ -38,3 +38,7 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 - [Peter Baylies StyleGAN2 repo](https://github.com/pbaylies/stylegan2)
 - Possible solution to [getting images from PDFs](https://stackoverflow.com/questions/2693820/extract-images-from-pdf-without-resampling-in-python)?
 
+### Homework
+• Keep making datasets :)
+
+
