@@ -41,4 +41,10 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 ### Homework
 - Keep making datasets :)
 
+## Week 3
+
+### Lecture resources
+- [Lecture Slides](https://docs.google.com/presentation/d/1Fw1QQ37YgqIYyQUz96-O8nGaM3LmwPo7le9aXVpVY7k/edit?usp=sharing)
+- [Lecture Video]
+
 
