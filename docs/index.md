@@ -49,6 +49,6 @@ Meeting Sundays at 7pm EDT. Please contact Lia or Derrick if you need the Zoom l
 
 ## Week 4
 - [Lecture Slides](https://docs.google.com/presentation/d/1Eo9j5m5AhdiBZRq45ix2FH2XVMauQVknpCWP5bM4Cvw/edit?usp=sharing)
-- [Lecture Video](https://youtu.be/R1Bf067Z5uM)
+- [Lecture Video](https://youtu.be/UdUXm6GiWYw)
 
 
